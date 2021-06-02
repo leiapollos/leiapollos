@@ -3,7 +3,7 @@
 
 - I’m currently working on [My thesis](https://github.com/leiapollos/Thesis-Release)
 
-- 👨‍💻 Most of my projects are available at [https://andreleite.pt/#portfolio](https://andreleite.pt/#portfolio)
+- 👨‍💻 Most of my projects are available at <a href="https://andreleite.pt/#portfolio" target="_blank">Portfolio</a>
 
 - 📫 How to reach me **andre.leite.98@tecnico.ulisboa.pt**
 
