@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Leite</h1>
 <h3 align="center">A student, with a passion for making games!</h3>
 
-- I’m currently working on [My thesis](https://github.com/leiapollos/Thesis)
+- I’m currently working on [My thesis](https://github.com/leiapollos/Thesis-Release)
 
 - 👨‍💻 Most of my projects are available at [https://andreleite.pt/#portfolio](https://andreleite.pt/#portfolio)
 
